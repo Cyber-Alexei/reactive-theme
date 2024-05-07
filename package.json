@@ -4,6 +4,16 @@
   "description": "A theme inspired in the code of the official React page",
   "version": "0.0.1",
   "publisher": "AlexeiTorres",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cyber-Alexei/reactive-theme"
+  },
+  "keywords": [
+    "theme",
+    "react theme",
+    "alexei torres",
+    "reactive theme"
+  ],
   "engines": {
     "vscode": "^1.89.0"
   },
