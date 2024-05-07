@@ -1,0 +1,22 @@
+{
+  "name": "reactive-theme",
+  "displayName": "Reactive Theme",
+  "description": "A theme inspired in the code of the official React page",
+  "version": "0.0.1",
+  "publisher": "AlexeiTorres",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Reactive Dragon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Reactive Dragon-color-theme.json"
+      }
+    ]
+  }
+}
