@@ -23,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Reactive Dragon",
+        "label": "Reactive Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Reactive Dragon-color-theme.json"
+        "path": "./themes/Reactive Theme color-theme.json"
       }
     ]
   }
