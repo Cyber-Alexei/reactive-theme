@@ -2,7 +2,7 @@
   "name": "reactive-theme",
   "displayName": "Reactive Theme",
   "description": "A theme inspired in the code of the official React page",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "AlexeiTorres",
   "repository": {
     "type": "git",
