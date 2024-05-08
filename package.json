@@ -25,7 +25,7 @@
       {
         "label": "Reactive Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Reactive Theme color-theme.json"
+        "path": "./themes/reactive-color-theme.json"
       }
     ]
   }
