@@ -21,12 +21,13 @@
 
 		"dropdown.listBackground": "#272B35",
 
-		"input.background": "#16181D",
+		"input.background": "#3E5A6A",
+		"inputOption.activeBorder": "#ffffff",
 
 		"list.inactiveSelectionBackground": "#16181D",
-		"list.activeSelectionBackground": "#3E5A6A",
+		"list.activeSelectionBackground": "#3b718f",
 		"list.dropBackground": "#3E5A6A",
-		"list.hoverBackground": "#3E5A6A",
+		"list.hoverBackground": "#3b718f",
 		
 
 		"editorGroupHeader.tabsBackground": "#272B35",
@@ -46,12 +47,15 @@
 		
 		"tab.dragAndDropBorder": "#d8a354",
 
-		"minimap.background": "#272B35",
+		"minimap.background": "#16181C",
 		"minimap.findMatchHighlight": "#ff000080",
 
 		"editorCursor.foreground": "#77B7D7",
 
 		"editor.wordHighlightBackground": "#C0904940",
+
+		"editorLineNumber.activeForeground": "#d8a354",
+		"editor.lineHighlightBackground": "#2e303a",
 
 		"editor.findMatchBackground": "#77B7D7",
 		"editor.findMatchHighlightBackground": "#77B7D740",
