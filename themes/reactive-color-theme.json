@@ -12,7 +12,21 @@
 		"titleBar.activeBackground": "#272B35",
 		"titleBar.inactiveBackground": "#272B35",
 		"sideBar.border": "#272B35",
-		"dropdown.background": "#16181D",
+		"dropdown.background": "#272B35",
+
+		"contrastBorder": "#272B35",
+
+		"focusBorder": "#1a92b1",
+		"foreground": "#f6f6f7",
+
+		"dropdown.listBackground": "#272B35",
+
+		"input.background": "#16181D",
+
+		"list.inactiveSelectionBackground": "#16181D",
+		"list.activeSelectionBackground": "#3E5A6A",
+		"list.dropBackground": "#3E5A6A",
+		"list.hoverBackground": "#3E5A6A",
 		
 
 		"editorGroupHeader.tabsBackground": "#272B35",
