@@ -84,7 +84,8 @@
 		{
 			"name": "Function names",
 			"scope": [
-				"meta.definition.function"
+				"meta.definition.function",
+				"meta.function-call.js.jsx"
 			],
 			"settings": {
 				"foreground": "#7edbcc"
@@ -360,7 +361,7 @@
 			"name": "Name",
 			"scope": ["constant.numeric"],
 			"settings": {
-				"foreground": "#c23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -397,7 +398,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#c23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -458,7 +459,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#C23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -532,7 +533,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#C23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -541,7 +542,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -591,7 +592,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
@@ -700,7 +701,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C23937"
+				"foreground": "#d12623"
 			}
 		},
 		{
