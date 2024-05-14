@@ -505,7 +505,6 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#7cbddd"
 			}
 		},
